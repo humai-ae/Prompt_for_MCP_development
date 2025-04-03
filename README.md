@@ -1,1 +1,1 @@
-# Prompt_for_MCP_development
+# Prompts
