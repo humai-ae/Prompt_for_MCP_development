@@ -1,6 +1,3 @@
-Here’s a cleaned-up version of the prompt for your MCP (Multi-Agent Control Platform) development. You can modify it further to suit your specific needs.
-
-⸻
 
 MCP Agentic AI Coding Assistant Prompt
 
